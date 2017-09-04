@@ -1,6 +1,6 @@
 Name: "kf"
 Replicas: 3
-Image: "armdocker.rnd.ericsson.se/aia/base/aia-docker-kafka"
+Image: "solsson/kafka"
 ImageTag: "latest"
 ImagePullPolicy: "Always"
 Cpu: "100m"
